@@ -1,5 +1,10 @@
-Sales dashboard
-![image](https://github.com/user-attachments/assets/3bc7e800-cdb5-4fc4-9900-b160f814d40b)
+1. Sales dashboard
+![image](https://github.com/user-attachments/assets/79cbed16-1743-408c-8d96-d1e65b34e2a4)
 
-Zara Customer Dashboard!!
-![image](https://github.com/user-attachments/assets/f03e71e6-5d94-4046-b29f-3439b8cd3ebc)
+2. Data Career Survey Breakdown
+![image](https://github.com/user-attachments/assets/2788a1d1-0f46-4918-be60-312dc7b182d1)
+
+
+4. Zara Customer Dashboard!!
+![image](https://github.com/user-attachments/assets/dd83369d-36e8-4da7-b716-51179ffb1f93)
+
